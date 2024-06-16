@@ -163,21 +163,7 @@ host-suffix, iq.com, proxy
 host, intl.iqiyi.com, proxy
 host, intl-rcd.iqiyi.com, proxy
 host, intl-subscription.iqiyi.com, proxy
-ip-cidr, 23.53.32.88/32, proxy
-ip-cidr, 23.211.15.99/32, proxy
-ip-cidr, 103.5.34.153/32, proxy
-ip-cidr, 104.109.129.153/32, proxy
-ip-cidr, 110.238.107.47/32, proxy
-ip-cidr, 118.26.32.178/32, proxy
-ip-cidr, 203.74.95.131/32, proxy
-ip-cidr, 203.74.95.139/32, proxy
-ip-cidr, 203.74.95.153/32, proxy
-ip-cidr, 203.211.4.169/32, proxy
-ip-cidr, 203.211.4.193/32, proxy
-ip-cidr, 210.71.227.200/32, proxy
-ip-cidr, 210.71.227.202/32, proxy
-ip-cidr, 210.201.32.8/32, proxy
-ip-cidr, 210.201.32.11/32, proxy
+
 user-agent, KKTV*, proxy
 user-agent, com.kktv.ios.kktv*, proxy
 host-suffix, kktv.com.tw, proxy
@@ -260,7 +246,7 @@ host, dfp6rglgjqszk.cloudfront.net, proxy
 user-agent, WeTV*, proxy
 host-suffix, wetv.vip, proxy
 host-suffix, wetvinfo.com, proxy
-ip-cidr, 150.109.28.51/32, proxy
+
 user-agent, com.google.ios.youtube*, proxy
 user-agent, YouTube*, proxy
 host-suffix, googlevideo.com, proxy
@@ -275,3 +261,28 @@ host-suffix, yt.be, proxy
 host-suffix, ytimg.com, proxy
 host, youtubei.googleapis.com, proxy
 host, yt3.ggpht.com, proxy
+
+user-agent, Spotify*, proxy
+host-suffix, pscdn.co, proxy
+host-suffix, scdn.co, proxy
+host-suffix, spotify.com, proxy
+host-suffix, spoti.fi, proxy
+host-keyword, spotify.com, proxy
+host-keyword, -spotify-com, proxy
+
+ip-cidr, 23.53.32.88/32, proxy, no-resolve
+ip-cidr, 23.211.15.99/32, proxy, no-resolve
+ip-cidr, 103.5.34.153/32, proxy, no-resolve
+ip-cidr, 104.109.129.153/32, proxy, no-resolve
+ip-cidr, 110.238.107.47/32, proxy, no-resolve
+ip-cidr, 118.26.32.178/32, proxy, no-resolve
+ip-cidr, 203.74.95.131/32, proxy, no-resolve
+ip-cidr, 203.74.95.139/32, proxy, no-resolve
+ip-cidr, 203.74.95.153/32, proxy, no-resolve
+ip-cidr, 203.211.4.169/32, proxy, no-resolve
+ip-cidr, 203.211.4.193/32, proxy, no-resolve
+ip-cidr, 210.71.227.200/32, proxy, no-resolve
+ip-cidr, 210.71.227.202/32, proxy, no-resolve
+ip-cidr, 210.201.32.8/32, proxy, no-resolve
+ip-cidr, 210.201.32.11/32, proxy, no-resolve
+ip-cidr, 150.109.28.51/32, proxy, no-resolve
