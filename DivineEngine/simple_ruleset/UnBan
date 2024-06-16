@@ -1,43 +1,43 @@
 # Unbreak 白名单 不应该被广告链接的网站
 
 # Epicgames
-HOST-SUFFIX, ol.epicgames.com
+HOST-SUFFIX, ol.epicgames.com, direct
 
 # Getui
-HOST-SUFFIX, dizhensubao.getui.com
+HOST-SUFFIX, dizhensubao.getui.com, direct
 
 # Google
-HOST, dl.google.com
-HOST-SUFFIX, googletraveladservices.com
+HOST, dl.google.com, direct
+HOST-SUFFIX, googletraveladservices.com, direct
 
 # Mozilla
-HOST-SUFFIX, tracking-protection.cdn.mozilla.net
+HOST-SUFFIX, tracking-protection.cdn.mozilla.net, direct
 
 # Origin
-HOST, origin-a.akamaihd.net
+HOST, origin-a.akamaihd.net, direct
 
 # Tencent
-HOST, fairplay.l.qq.com
-HOST, livew.l.qq.com
-HOST, vd.l.qq.com
+HOST, fairplay.l.qq.com, direct
+HOST, livew.l.qq.com, direct
+HOST, vd.l.qq.com, direct
 
 # Strava
 
 # Umeng
-HOST, errlog.umeng.com
-HOST, msg.umeng.com
-HOST, msg.umengcloud.com
+HOST, errlog.umeng.com, direct
+HOST, msg.umeng.com, direct
+HOST, msg.umengcloud.com, direct
 
 # Miui 小米
-HOST, tracking.miui.com
+HOST, tracking.miui.com, direct
 
 # General
-HOST, app.adjust.com
-HOST, bdtj.tagtic.cn
+HOST, app.adjust.com, direct
+HOST, bdtj.tagtic.cn, direct
 
 # Hypixel Network
-HOST, rewards.hypixel.net
+HOST, rewards.hypixel.net, direct
 
 # Koodo Mobile
-HOST-SUFFIX, koodomobile.com
-HOST-SUFFIX, koodomobile.ca
+HOST-SUFFIX, koodomobile.com, direct
+HOST-SUFFIX, koodomobile.ca, direct
