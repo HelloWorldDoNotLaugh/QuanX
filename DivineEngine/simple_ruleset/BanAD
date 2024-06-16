@@ -2,7 +2,7 @@
 
 # 广告关键词
 host-keyword, admarvel, reject
-host-keyword, admaster
+host-keyword, admaster, reject
 host-keyword, adsage
 host-keyword, adsensor
 host-keyword, adsmogo
