@@ -19,9 +19,6 @@ host-suffix, paypal-mktg.com, direct
 host-suffix, paypalobjects.com, direct
 host-suffix, cm.steampowered.com, direct
 host-suffix, steamserver.net, direct
-ip-cidr, 182.254.116.0/24, direct
-ip-cidr, 203.205.238.0/23, direct
-ip-cidr, 203.205.254.0/23, direct
 host, ip.istatmenus.app, direct
 host, sms.imagetasks.com, direct
 host-suffix, netspeedtestmaster.com, direct
@@ -58,4 +55,7 @@ host-suffix, redacted.ch, direct
 host-suffix, springsunday.net, direct
 host-suffix, tjupt.org, direct
 host-suffix, totheglory.im, direct
-geoip, cn, direct
+geoip, cn, direct, no-resolve
+ip-cidr, 182.254.116.0/24, direct
+ip-cidr, 203.205.238.0/23, direct
+ip-cidr, 203.205.254.0/23, direct
