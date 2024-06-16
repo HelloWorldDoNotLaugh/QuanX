@@ -10,7 +10,8 @@ host, upos-hz-mirrorakam.akamaized.net, direct
 host, www.bilibili.com, direct
 host-keyword, cn-hk-eq-bcache-, direct
 host, cache.video.iqiyi.com, direct
-ip-cidr, 116.211.202.206/32, direct
-ip-cidr, 116.211.202.216/32, direct
 host-suffix, api.mgtv.com, direct
 host, mobileso.bz.mgtv.com, direct
+
+ip-cidr, 116.211.202.206/32, direct, no-resolve
+ip-cidr, 116.211.202.216/32, direct, no-resolve
