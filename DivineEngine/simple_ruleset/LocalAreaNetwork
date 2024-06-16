@@ -18,10 +18,10 @@ IP-CIDR,172.16.0.0/12,direct,no-resolve
 IP-CIDR,192.168.0.0/16,direct,no-resolve
 IP-CIDR,198.18.0.0/16,direct,no-resolve
 IP-CIDR,224.0.0.0/4,direct,no-resolve
-IP-CIDR6,::1/128,direct,no-resolve
-IP-CIDR6,fc00::/7,direct,no-resolve
-IP-CIDR6,fe80::/10,direct,no-resolve
-IP-CIDR6,fd00::/8,direct,no-resolve
+IP6-CIDR,::1/128,direct,no-resolve
+IP6-CIDR,fc00::/7,direct,no-resolve
+IP6-CIDR,fe80::/10,direct,no-resolve
+IP6-CIDR,fd00::/8,direct,no-resolve
 
 # Router managed 路由器管理域名
 HOST,instant.arubanetworks.com, direct
