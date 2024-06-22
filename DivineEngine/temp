@@ -1,0 +1,14 @@
+https://raw.githubusercontent.com/HelloWorldDoNotLaugh/QuanX/main/DivineEngine/simple_ruleset/UnBan, tag=白名单 不应该被广告链接的网站, force-policy=direct, update-interval=172800, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/HelloWorldDoNotLaugh/QuanX/main/DivineEngine/Ruleset/Hijacking.list, tag=拦截, force-policy=reject, update-interval=172800, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/HelloWorldDoNotLaugh/QuanX/main/DivineEngine/Ruleset/Advertising.list, tag=广告, force-policy=reject, update-interval=172800, opipv4rser=false, enabled=true
+https://raw.githubusercontent.com/HelloWorldDoNotLaugh/QuanX/main/DivineEngine/Ruleset/AdvertisingPlus.list, tag=广告plus, force-policy=reject, update-interval=172800, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/HelloWorldDoNotLaugh/QuanX/main/DivineEngine/simple_ruleset/BanAD, tag=广告, force-policy=reject, update-interval=172800, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/HelloWorldDoNotLaugh/QuanX/main/DivineEngine/simple_ruleset/BanProgramAD, tag=常用应用广告, force-policy=reject, update-interval=172800, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/HelloWorldDoNotLaugh/QuanX/main/DivineEngine/Ruleset/Apple.list, tag=苹果, force-policy=苹果服务🍎, update-interval=172800, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/HelloWorldDoNotLaugh/QuanX/main/DivineEngine/simple_ruleset/ChinaMedia, tag=中国流媒体, force-policy=direct, update-interval=172800, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/HelloWorldDoNotLaugh/QuanX/main/DivineEngine/simple_ruleset/ChinaDomain, tag=中国域名, force-policy=direct, update-interval=172800, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/HelloWorldDoNotLaugh/QuanX/main/DivineEngine/simple_ruleset/LocalAreaNetwork, tag=本地/局域网地址, force-policy=direct, update-interval=172800, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/HelloWorldDoNotLaugh/QuanX/main/DivineEngine/Ruleset/Streaming.list, tag=国外流媒体, force-policy=proxy, update-interval=172800, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/HelloWorldDoNotLaugh/QuanX/main/DivineEngine/Ruleset/Global.list, tag=国外网站, force-policy=proxy, update-interval=172800, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/HelloWorldDoNotLaugh/QuanX/main/DivineEngine/simple_ruleset/ChinaCompanyIp, tag=中国云服务商ip端, force-policy=direct, update-interval=172800, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/HelloWorldDoNotLaugh/QuanX/main/DivineEngine/simple_ruleset/ChinaIp, tag=中国IP地址段ipv4, force-policy=direct, update-interval=172800, opt-parser=false, enabled=true
