@@ -1,3 +1,3 @@
-DOMAIN, adx.hupu.com, reject
-DOMAIN, adx-api.hupu.com, reject
-DOMAIN, goblin.hupu.com, reject
+DOMAIN, adx.hupu.com
+DOMAIN, adx-api.hupu.com
+DOMAIN, goblin.hupu.com
